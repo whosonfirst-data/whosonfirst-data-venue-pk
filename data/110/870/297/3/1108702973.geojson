@@ -1,0 +1,76 @@
+{
+  "id": 1108702973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"67.0806218,24.9068278,67.0806218,24.9068278",
+    "geom:latitude":24.906828,
+    "geom:longitude":67.080622,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "sg:address":"319, Ground Floor Block 7/8 CP Berar Society",
+    "sg:city":"Karachi",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"75400",
+    "sg:tags":[
+        "web",
+        "software",
+        "design",
+        "rich-internet-application",
+        "online-brand-development"
+    ],
+    "sg:website":"http://www.intelligenes.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632659,
+        85907599,
+        85675757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23304nOlxeQ15XDwww0mmt_24.906828_67.080622@1308163238"
+    },
+    "wof:country":"PK",
+    "wof:created":1474570894,
+    "wof:geomhash":"145885ffdc744bde8af67002640cf6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632659,
+            "neighbourhood_id":85907599,
+            "region_id":85675757,
+            "venue_id":1108702973
+        }
+    ],
+    "wof:id":1108702973,
+    "wof:lastmodified":1474570894,
+    "wof:name":"Intelligenes",
+    "wof:parent_id":85907599,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web",
+        "software",
+        "design",
+        "rich-internet-application",
+        "online-brand-development"
+    ]
+},
+  "bbox": [
+    67.0806218,
+    24.9068278,
+    67.0806218,
+    24.9068278
+],
+  "geometry": {"coordinates":[67.0806218,24.9068278],"type":"Point"}
+}

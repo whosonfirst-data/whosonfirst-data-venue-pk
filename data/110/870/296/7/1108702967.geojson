@@ -1,0 +1,71 @@
+{
+  "id": 1108702967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"73.000806,33.6806501,73.000806,33.6806501",
+    "geom:latitude":33.68065,
+    "geom:longitude":73.000806,
+    "iso:country":"PK",
+    "mz:hierarchy_label":1,
+    "sg:address":"94 Nazimuddin Road F-8/4",
+    "sg:city":"Islamabad",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"44000",
+    "sg:tags":[
+        "web-design",
+        "website-design",
+        "web-design-services",
+        "web-design-company",
+        "web-designer",
+        "web-development",
+        "outsourcing-website-design",
+        "web2-0-designer"
+    ],
+    "sg:website":"http://www.pro-technologies.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hSSx3M5TsC8SM2fzkKHYQ_33.680650_73.000806@1308163241"
+    },
+    "wof:country":"PK",
+    "wof:created":1474570894,
+    "wof:geomhash":"598224a9ba7f501e661b098b09bd7bf3",
+    "wof:hierarchy":[],
+    "wof:id":1108702967,
+    "wof:lastmodified":1474570894,
+    "wof:name":"Pro-Technologies",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-pk",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "web-design",
+        "website-design",
+        "web-design-services",
+        "web-design-company",
+        "web-designer",
+        "web-development",
+        "outsourcing-website-design",
+        "web2-0-designer"
+    ]
+},
+  "bbox": [
+    73.000806,
+    33.6806501,
+    73.000806,
+    33.6806501
+],
+  "geometry": {"coordinates":[73.000806,33.6806501],"type":"Point"}
+}
